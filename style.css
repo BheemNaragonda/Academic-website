@@ -51,7 +51,7 @@
     color: #1eb2a6;
 }
 .count{
-    background: url('/images/bg_3.jpg.webp');
+    background: url('images/bg_3.jpg.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
