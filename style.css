@@ -1,0 +1,219 @@
+.overall{
+    background: url('images/bg_1.jpg.webp');
+    height: 70vh;
+    background-size: cover;
+    background-attachment:fixed !important;
+}
+.overall-1{
+    background: url('images/bg_2.jpg.webp');
+    height: 70vh;
+    background-size: cover;
+    background-attachment:fixed !important;
+}
+.main-img{
+    height: 32px;
+    margin-top: 10px;
+}
+.getstart{
+    border-radius: 5px;
+    background-color: #1eb2a6 !important;
+    color: white !important;
+    padding: 5px 0px;
+    font-size: 13px !important;
+}
+.vc{
+    border-radius: 5px;
+    background-color: white !important;
+    color: #1eb2a6 !important;
+    padding: 5px 0px;
+    font-size: 13px !important;
+}
+.about{
+    background: rgb(153 153 153 / 7%) !important;
+}
+.about-img{
+    background: url('images/about.jpg.webp');
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.about-1{
+    background-color: white;
+}
+.about-1:hover{
+    background-color: #2ea59bb0;
+}
+.learn{
+    margin-top: 70px;
+    color: #1eb2a6;
+}
+.learn-1{
+    color: #1eb2a6;
+}
+.count{
+    background: url('images/bg_3.jpg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+    padding: 30px ;
+    color: white;
+    opacity: 0.9;
+}
+.courses{
+
+    background: rgb(153 153 153 / 7%) !important;
+}
+.course-1{
+    background-color: white;
+    padding: 10px 30px;
+}
+.price{
+    background: rgb(153 153 153 / 7%) !important;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+.enroll-btn{
+    border: 2px solid #2ea59bb0 !important;
+    border-radius: 5px;
+    color:  #2ea59bb0 !important;
+    padding: 10px !important;
+}
+.enroll-btn-s{
+
+    border-radius: 5px;
+    color:  white !important;
+    background-color: #2ea59bb0 !important;
+    padding: 10px !important;
+}
+.o-1{
+    background-color: white;
+    border-radius: 5px;
+    padding:10px 5px;
+    margin-top: 10px;
+}
+.learn-2{
+    color: #2ea59bb0;
+    background-color:rgb(153 153 153 / 7%) ;
+    margin: 0px 10px;
+}
+.image-height{
+    height: 90px;
+}
+.img-circle{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.inner-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.commonet{
+    font-size: 15px !important;
+}
+.test-1{
+    background-color: white;
+    padding: 20px ;
+}
+.blog-1{
+    background-color: white;
+    border-radius: 5px;
+}
+.blog-1-img{
+    border-radius: 5px;
+    height: 100%;
+    width: 100%;
+}
+.pack-1{
+    background-color: white;
+    border-radius: 5px;
+}
+.pack-1p{
+    font-size: 45px !important;
+}
+.start{
+    border: 2px solid #2ea59bb0 !important;
+    padding: 5px 10px!important;
+    border-radius: 5px !important;
+    color: #2ea59bb0;
+}
+.email{
+    background-color: #2ea59bb0;
+    padding: 60px 30px !important ;
+    color: white;
+}
+.form-control{
+
+    background: transparent !important;
+    border-radius: 0px !important;
+    border: none !important;
+    border-bottom: 2px solid white !important;
+    box-shadow: none !important;
+}
+::placeholder{
+    color: white !important;
+}
+.f-p{
+    font-size: 14px
+}
+.footer-img{
+    height: 40px;
+    width: 60px;
+    border-radius: 10px;
+}
+.f-imgs{
+    height: 40px;
+    width: 60px;
+    border-radius: 10px;
+}
+ul{
+    list-style: none !important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.navbar{
+    background-color: rgba(255, 255, 255, 0.242);
+}
+.certificate{
+    background-color: #2ea59bb0 !important;
+    padding: 12px 20px !important;
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
+}
+.active1{
+    color: #2ea59bb0 !important;
+}
+.inner{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.o-1:hover{
+    background-color: #2ea59bb0;
+}
+.carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 3px;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 3px solid !important;
+
+}
+.carousel-indicators{
+    position: absolute;
+    bottom: -35px !important;
+}
